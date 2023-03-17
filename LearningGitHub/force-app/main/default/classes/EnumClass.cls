@@ -10,5 +10,7 @@ public class EnumClass {
         System.debug(current2.name());
         System.debug(current1.ordinal());
         System.debug(current2.ordinal());
+       
     }
+   
 }
